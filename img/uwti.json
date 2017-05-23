@@ -1,0 +1,1 @@
+{"rows": [{"c": [{"v": "Short"}, {"v": 6.542482342057343}]}, {"c": [{"v": "Long"}, {"v": 93.45751765794266}]}], "cols": [{"type": "string", "label": "Position"}, {"type": "number", "label": "Probability"}]}
